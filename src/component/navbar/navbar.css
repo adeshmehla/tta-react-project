@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #001f3f; 
+  padding: 10px 5%; 
+  font-size: 19px; 
+}
+
+.logo {
+  color: white; 
+}
+
+.ant-menu {
+  background-color: #001f3f; 
+}
+
+.ant-menu-item span {
+  color: white; 
+}

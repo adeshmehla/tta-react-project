@@ -1,0 +1,24 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .centered-content {
+    text-align: center;
+    border: 1px solid;
+    width: 32%;
+    height: 250px;
+    border-radius: 7px;
+  }
+  .centered-content p{
+    height: 70px;
+  }
+  
+  .quotesbtn{
+    position: relative;
+    float: right;
+    top: 12%;
+    margin: 3%;
+  }
